@@ -1,0 +1,7 @@
+Adım,İşlem,Ayrıntı
+1,Zaman damgası ayrıştırma,date sütunu datetime türüne çevrildi
+2,Zaman özniteliği türetme,hour ve dayofweek eklendi
+3,Öznitelik çıkarma,"date, rv1, rv2 çıkarıldı; 27 öznitelik kaldı"
+4,Kronolojik bölme,Eğitim 13814 / doğrulama 2960 / test 2961 (70/15/15)
+5,Öznitelik standartlaştırma,StandardScaler yalnızca eğitim setine uyduruldu (veri sızıntısı önlendi)
+6,Hedef standartlaştırma,Hedef eğitim ortalaması ve standart sapmasıyla standartlaştırıldı; tahminler Wh'ye geri çevrildi

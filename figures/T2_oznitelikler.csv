@@ -1,0 +1,21 @@
+Öznitelik,Birim,Açıklama
+Appliances,Wh,Cihaz enerji tüketimi (hedef değişken)
+lights,Wh,Evdeki aydınlatma armatürlerinin enerji tüketimi
+"T1, RH_1","°C, %",Mutfak alanı sıcaklık ve bağıl nem
+"T2, RH_2","°C, %",Oturma odası alanı sıcaklık ve bağıl nem
+"T3, RH_3","°C, %",Çamaşır odası alanı sıcaklık ve bağıl nem
+"T4, RH_4","°C, %",Ofis odası sıcaklık ve bağıl nem
+"T5, RH_5","°C, %",Banyo sıcaklık ve bağıl nem
+"T6, RH_6","°C, %",Bina dışı (kuzey cephe) sıcaklık ve bağıl nem
+"T7, RH_7","°C, %",Ütü odası sıcaklık ve bağıl nem
+"T8, RH_8","°C, %",Genç odası 2 sıcaklık ve bağıl nem
+"T9, RH_9","°C, %",Ebeveyn odası sıcaklık ve bağıl nem
+T_out,°C,Dış sıcaklık (Chievres hava istasyonu)
+Press_mm_hg,mmHg,Basınç (Chievres hava istasyonu)
+RH_out,%,Dış bağıl nem (Chievres hava istasyonu)
+Windspeed,m/s,Rüzgâr hızı (Chievres hava istasyonu)
+Visibility,km,Görüş mesafesi (Chievres hava istasyonu)
+Tdewpoint,°C,Çiğ noktası sıcaklığı (Chievres hava istasyonu)
+"rv1, rv2",-,"Rastgele değişkenler (boyutsuz, modelden çıkarıldı)"
+hour,saat,Zaman damgasından türetilen saat (0–23)
+dayofweek,-,Zaman damgasından türetilen haftanın günü (0–6)

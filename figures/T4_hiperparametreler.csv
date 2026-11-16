@@ -1,0 +1,13 @@
+Hiperparametre,Değer
+Mimari,27-128-64-32-1 (MLP)
+Aktivasyon,ReLU
+Parametre sayısı,"13,953"
+Optimizör,Adam
+Öğrenme oranı,1e-3
+Batch büyüklüğü,128
+Maksimum epoch,100
+Erken durdurma,"Sabır 10, doğrulama RMSE'ye göre"
+Seed'ler,"42, 43, 44, 45, 46"
+Huber δ (varsayılan),"1,0 (standartlaştırılmış birim)"
+Kayıp fonksiyonları,"MSE, MAE, Huber, Log-cosh"
+Cihaz,cpu
